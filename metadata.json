@@ -1,0 +1,6 @@
+{
+  "name": "PhotoTo3D",
+  "description": "Transforme fotografias em modelos 3D altamente detalhados e prontos para impressão 3D utilizando inteligência artificial avançada.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
